@@ -74,8 +74,7 @@ currently_learning:
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [🏦 financeapp](https://github.com/raphaelsilva025/financeapp) | Aplicação de controle financeiro pessoal | Python, Docker |
-| [🐧 semana-devops-linuxtips](https://github.com/raphaelsilva025/semana-devops-linuxtips) | Projetos e labs da Semana DevOps LINUXtips | Linux, DevOps |
+
 | [📅 controle-de-agendamentos](https://github.com/raphaelsilva025/controle-de-agendamentos) | Sistema de controle e gestão de agendamentos | Python |
 
 ---
